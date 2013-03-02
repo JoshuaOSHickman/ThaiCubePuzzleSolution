@@ -82,5 +82,5 @@ main = print $ listToMaybe $ concat $ do
   x <- [0..2]
   y <- [0..2]
   z <- [0..2]
-  validPaths connections (Location x y z) initial_orientation 
+  return $ validPaths connections (Location x y z) initial_orientation 
 	
