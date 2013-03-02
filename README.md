@@ -6,7 +6,7 @@ A 3x3x3 cube created by a string of rotatable connected blocks.
 The Solution Story
 ==================
 
-So, I see this guy on a shelf at work. I make a comment about it looking like a silly easy version of the rubik's cube. Because, you know, it has two colors. The guy sitting next to it laughs, grabs it, unravels the blocks, and tosses it over. 
+So, I see this wooden 3x3x3 cube on a shelf at work. I make a comment about it looking like a silly easy version of the rubik's cube. Because, you know, it has two colors. The guy sitting next to it laughs, grabs it, unravels the blocks, and tosses it over. 
 
 So I try and solve this for maybe 20 minutes before heading out for the day, and I can't get it. So I realize I can have an unambiguous record of the shape by making the blocks go only up and to the right, and writing down the length of each row. So I do that, and go home. 
 
